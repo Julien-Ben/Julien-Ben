@@ -1,4 +1,4 @@
-# Selection of my open-source projects, sorted by relevance
+# Some of my open-source projects (WIP)
 | Start Date (MM/YYYY) |                                       Name                                      |    Type   |                                                                 Description                                                                |             Tech Stack             | Team Size | Grade |
 |:--------------------:|:-------------------------------------------------------------------------------:|:---------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------:|:---------:|:-----:|
 |        06/2021       |         [Notify Me SenPy](https://github.com/magantoine/senpy-package/)         | Personnal | Notify Me SenPy is a productivity tool that let's you track your Python scripts' execution from your smartphone and receive notifications. |   Python - Django - React Native   |     4     |   -   |
